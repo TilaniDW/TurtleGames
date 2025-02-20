@@ -3,7 +3,8 @@
 - Disclaimer: I completed the following project as part of the LSE Data Analytics Career Accelearator Course (April 2024 - November 2024)
 - Grade 88%
 
-![Turtel games](https://github.com/user-attachments/assets/0359d99e-900a-422e-9583-98828c38776d)
+![Turtel games](https://github.com/user-attachments/assets/6770da1a-0760-4539-abf6-51c2deea50af)
+
 
 ## Business Question: Can TURTLE GAMES boost sales performance by analysing their customer data?
 
