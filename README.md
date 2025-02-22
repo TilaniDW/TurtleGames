@@ -1,12 +1,13 @@
 # TurtleGames
 
-- Disclaimer: I completed the following project as part of the LSE Data Analytics Career Accelearator Course (April 2024 - November 2024)
-- Grade 88%
+🔦 *Disclaimer: I completed the following project as part of the LSE Data Analytics Career Accelearator Course (April 2024 - November 2024)*
+
+🔖 Grade 88%
 
 ![Turtel games](https://github.com/user-attachments/assets/6770da1a-0760-4539-abf6-51c2deea50af)
 
 
-## Business Question: Can TURTLE GAMES boost sales performance by analysing their customer data?
+## Can TURTLE GAMES boost sales performance by analysing their customer data?
 
 This project was about diving deep into customer and sales data for a fictitious global gaming company, TURTLE GAMES. As part of a team of analysts, my role was to uncover patterns, relationships, and insights that could help TURTLE GAMES make data-driven decisions to improve sales performance and customer engagement.
 
