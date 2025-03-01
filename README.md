@@ -1,21 +1,62 @@
 # TurtleGames
 
-🔦 *Disclaimer: I completed the following project as part of the LSE Data Analytics Career Accelearator Course (April 2024 - November 2024)*
+>>🔦 *Disclaimer: I completed the following project as part of the LSE Data Analytics Career Accelearator Course (April 2024 - November 2024)*
 
-🔖 Grade 88%
+>>🔖 Grade 88%
 
-![Turtel games](https://github.com/user-attachments/assets/6770da1a-0760-4539-abf6-51c2deea50af)
+![TurtleGames](TurtleGames_images/TurtelGamesBanner.png)
 
 
-## Can TURTLE GAMES boost sales performance by analysing their customer data?
 
-This project was about diving deep into customer and sales data for a fictitious global gaming company, TURTLE GAMES. As part of a team of analysts, my role was to uncover patterns, relationships, and insights that could help TURTLE GAMES make data-driven decisions to improve sales performance and customer engagement.
+## ❓ How can TURTLE GAMES increase sales performance through customer segmentation and predictive analytics?
 
-I began by cleaning and preparing the data using Python (Pandas, NumPy) and Excel, ensuring it was well-structured for analysis. From there, I applied exploratory, descriptive, and diagnostic analysis in both Python and R to identify key trends in customer spending, demographics, and engagement. One of my main focuses was predictive modelling, where I used Simple and Multiple Linear Regression to examine how factors like age, income, and loyalty scores influenced customer spending. Later, I fine-tuned these predictions using Decision Tree Regression, which improved the model’s ability to predict customer loyalty accumulation.
+### 📌 Overview
 
-The second part my analysis involved customer segmentation. Using K-Means Clustering, I grouped customers based on income and spending behaviour, helping TURTLE GAMES’ marketing team identify high-value customer segments.This segmentation provided insights into which customer groups were more likely to engage with the brand and which products resonated with different demographics.
+This project was about understanding customer behaviour and improving sales performance for TURTLE GAMES, a fictitious global gaming company. I worked as part of a team of analysts, focusing on identifying spending patterns, customer segments, and factors influencing loyalty point accumulation.
 
-To complement the numerical analysis, I applied Natural Language Processing (NLP) using TextBlob to analyse customer review sentiment. After cleaning the text data, I classified reviews as positive, neutral, or negative, identifying key customer satisfaction trends. I also generated word clouds to highlight commonly used words in different sentiment categories and analysed the top 20 most positive and negative reviews to understand what customers appreciated or disliked about TURTLE GAMES’ products.
+To achieve this, I applied predictive modelling and customer segmentation techniques, using both Python and R. I also conducted sentiment analysis on customer reviews, looking at what customers liked and disliked about TURTLE GAMES’ products. This project gave me an opportunity to blend machine learning with business insights, making data-driven recommendations that could help refine the company’s marketing and loyalty strategies.
 
-This project provided hands-on experience with machine learning models, statistical analysis, and NLP techniques, while reinforcing my ability to apply both Python and R in a business context. More importantly, it showed me how data can be leveraged not just to analyse past behaviours, but to predict and influence future decisions, enabling companies like TURTLE GAMES to make more informed, data-driven choices.
+### 🛠️ Approach & Tools
+
+*1. Data Cleaning & Preparation*
+- Processed and structured customer sales and demographic data (2,000 customers) using Python (Pandas, NumPy) and Excel.
+- Addressed missing values, duplicates, and standardised key variables to ensure consistency across the dataset.
+
+*2. Exploratory & Predictive Modelling*
+
+- Conducted descriptive and diagnostic analysis in Python & R to examine spending trends, demographics, and loyalty accumulation.
+- Built Multiple Linear Regression (MLR) models to evaluate the relationship between age, income, and spending score with loyalty points.
+- Used Decision Tree Regression to capture non-linearity, ultimately outperforming MLR in prediction accuracy.
+
+*3. Customer Segmentation & Clustering*
+
+- Applied K-Means Clustering to segment customers based on income and spending scores.
+- Identified five distinct customer groups, helping TURTLE GAMES refine its marketing and loyalty strategies.
+
+
+*4. Natural Language Processing (NLP) on Customer Reviews*
+
+- Used TextBlob for sentiment analysis, identifying polarity (positive/negative) and subjectivity in customer reviews.
+- Processed and cleaned text data, removing stop words and standardising text for better analysis.
+- Created word clouds and sentiment scores, identifying common themes in positive and negative customer feedback.
+
+### 📊 Business Impact
+
+- Decision Tree Regression outperformed Multiple Linear Regression, achieving 99.5% accuracy in predicting loyalty points while handling non-linear patterns effectively.
+- K-Means Clustering identified five key customer segments, allowing TURTLE GAMES to personalise marketing efforts and optimise loyalty programs.
+- Sentiment analysis showed 80% of customer reviews were positive, with negative feedback mainly about product complexity and unclear instructions.
+- Customers aged 25–44 were the highest spenders, with spending declining after age 50.
+- High-income customers preferred premium products (e.g., 5510, 6466, and 9080), making them ideal candidates for targeted loyalty incentives.
+- Recommended refining loyalty rewards, focusing on high-value segments, and improving engagement with underperforming customer groups.
+
+### 🎯 Key Takeaways
+- Strengthened my predictive modelling skills, comparing MLR vs. Decision Trees and learning how to handle non-linearity in business data.
+- Gained experience in customer segmentation, using K-Means Clustering to identify data-driven marketing strategies.
+- Applied NLP techniques to real-world customer reviews, improving my ability to extract insights from unstructured text data.
+- Learned how to connect machine learning insights to actionable business strategies, enhancing sales performance and customer engagement.
+
+
+
+
+
 
