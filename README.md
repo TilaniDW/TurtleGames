@@ -1,6 +1,6 @@
 # TurtleGames
 
->>🔦 *Disclaimer: I completed the following project as part of the LSE Data Analytics Career Accelearator Course (April 2024 - November 2024)*
+>🔦 *Disclaimer: I completed the following project as part of the LSE Data Analytics Career Accelearator Course (April 2024 - November 2024)*
 
 >>🔖 Grade 88%
 
